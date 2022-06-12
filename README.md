@@ -52,11 +52,11 @@
   01\) HTML 기초 (태그)  
   02\) CSS 기초  
 - 미니 프로젝트  
-  01\) Clone Coding (Amazon Today's Deal 페이지를 html과 css로 구현)
-      - 클론 코딩할 홈페이지 선정
-      - 전체적인 레이아웃 구성
-      - 상단(header) 구현
-      - 하단(footer) 
+  01\) Clone Coding (Amazon Today's Deal 페이지를 html과 css로 구현)  
+      - 클론 코딩할 홈페이지 선정  
+      - 전체적인 레이아웃 구성  
+      - 상단(header) 구현  
+      - 하단(footer)   
 ### 06. JavaScript
 - 기간 : 2022.05.31 ~ 2022.06.09
 - 교육내용  
