@@ -52,7 +52,7 @@
   01\) HTML 기초 (태그)  
   02\) CSS 기초  
 - 미니 프로젝트  
-  01\) Clone Coding (Amazon 홈페이지)
+  01\) Clone Coding (Amazon Today's Deal 페이지를 html과 css로 구현)
 ### 06. JavaScript
 - 기간 : 2022.05.31 ~ 2022.06.09
 - 교육내용  
