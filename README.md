@@ -85,7 +85,7 @@
   23\) ajax  
 
 ### 07. jQuery
-- 기간 : 2022.06.09 ~ 
+- 기간 : 2022.06.09 ~ 2022.06.13
 - 교육내용  
   01\) HTML에서 jQuery 작성 방법  
   02\) CSS 선택자로 요소 선택  
@@ -97,8 +97,23 @@
   08\) dom01  
   09\) 이벤트 전파  
   10\) 아코디언 메뉴  
-  11\) class    
-### 08. Django
+  11\) class   
+  12\) insert  
+  13\) insert  
+  14\) replace  
+  15\) slotmachine  
+  16\) menu  
+  17\) delete  
+  18\) ajax  
+  19\) ajax  
+### 08. MySQL
+- 기간 : 2022.06.14
+- 교육내용
+  01\) MySQL Database   
+  02\) CSS 선택자로 요소 선택  
+  03\) input 입력
+
+### 09. Django
 - 기간 : 2022.06.
 - 
 ---
