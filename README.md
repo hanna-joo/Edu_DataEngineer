@@ -119,7 +119,9 @@
 - 교육내용
   01\) Pycharm 설치 및 가상환경 구축
   02\) 서버에 url 요청 및 응답
-  03\) Django 사용
+  03\) view layer
+  04\) template layer
+  05\) model layer
 ---
 ## 이러닝
 ### 01. 최적화를 위한 알고리즘
