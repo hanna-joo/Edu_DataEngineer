@@ -122,6 +122,7 @@
   03\) view layer  
   04\) template layer  
   05\) model layer  
+  06\) MySQL/Admin/Pagination
 ---
 ## 이러닝
 ### 01. 최적화를 위한 알고리즘
