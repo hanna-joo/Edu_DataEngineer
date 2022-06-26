@@ -43,7 +43,7 @@
 - 교육내용  
   01\) HTML 기초 (태그)  
   02\) CSS 기초  
-- 미니 프로젝트  
+- **미니 프로젝트**  
   01\) Clone Coding (Amazon Today's Deal 페이지를 html과 css로 구현)  
       - 클론 코딩할 홈페이지 선정  
       - 전체적인 레이아웃 구성  
