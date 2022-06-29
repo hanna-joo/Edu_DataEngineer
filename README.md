@@ -40,10 +40,10 @@
 - 기간 : 2022.05.30 ~ 2022.06.24
 ### 05. HTML 과 CSS
 - 교육내용  
-  01\) HTML 기초 (태그)  
-  02\) CSS 기초  
+  - HTML 기초 (태그)  
+  - CSS 기초  
 - **미니 프로젝트**  
-  01\) Clone Coding (Amazon Today's Deal 페이지를 html과 css로 구현)  
+  - Clone Coding (Amazon Today's Deal 페이지를 html과 css로 구현)  
       - 클론 코딩할 홈페이지 선정  
       - 전체적인 레이아웃 구성  
       - 상단(header) 구현  
