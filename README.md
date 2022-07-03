@@ -51,8 +51,8 @@
 ### 06. JavaScript
 - 교육내용  
   - HTML에서 JavaScript 작성 방법  
-  02\) 변수와 타입  
-  03\) Window 객체의 대화형 메서드  
+  - 변수와 타입  
+  - Window 객체의 대화형 메서드  
   04\) 함수의 종류  
   05\) 제어문  
   06\) DOM (Document Object Model)  
