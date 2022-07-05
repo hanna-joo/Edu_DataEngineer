@@ -55,8 +55,8 @@
   - Window 객체의 대화형 메서드  
   - 함수의 종류  
   - 제어문  
-  06\) DOM (Document Object Model)  
-  07\) 객체  
+  - DOM (Document Object Model)  
+  - 객체  
   08\) 문자  
   09\) 숫자  
   10\) 날짜  
