@@ -124,6 +124,7 @@
 ## 프로젝트
 ### 01. [데이터 시각화 프로젝트](https://github.com/hanna-joo/multicamp_edu/tree/main/03_FirstProject)
 - 기간 : 2022.06.24 ~ 2022.07.08
+- 주제 : 서울시 공공도서관 신설 및 예산 활용 방향 제시
 - 결과 : 우수상
 
 ---
