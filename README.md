@@ -38,7 +38,7 @@
 
 ## [풀스텍 프로그래밍](https://github.com/hanna-joo/multicamp_edu/tree/main/02_FullStackDeveloper)
 - 기간 : 2022.05.30 ~ 2022.06.24
-### 05. HTML 과 CSS
+### 11. HTML 과 CSS
 - 교육내용  
   - HTML 기초 (태그)  
   - CSS 기초  
@@ -48,7 +48,7 @@
       - 전체적인 레이아웃 구성  
       - 상단(header) 구현  
       - 하단(footer) 구현  
-### 06. JavaScript
+### 12. JavaScript
 - 교육내용  
   - HTML에서 JavaScript 작성 방법  
   - 변수와 타입  
@@ -74,7 +74,7 @@
   22\) dom07  
   23\) ajax  
 
-### 07. jQuery
+### 13. jQuery
 - 교육내용  
   01\) HTML에서 jQuery 작성 방법  
   02\) CSS 선택자로 요소 선택  
@@ -96,13 +96,13 @@
   18\) ajax  
   19\) ajax  
   
-### 08. MySQL
+### 14. MySQL
 - 교육내용
   01\) MySQL Database   
   02\) DFL / DML / DCL
   03\) join과 서브쿼리
 
-### 09. Django
+### 15. Django
 - 교육내용  
   01\) Django 기초/가상환경 구축/프로젝트 시작  
   02\) View layer/Template layer  
@@ -112,12 +112,12 @@
   06\) mymember을 사용한 로그인 및 로그아웃  
   07\) 파일 업로드/파일 다운로드  
   
-### 10. Crawling
+### 16. Crawling
 - 교육내용  
   01\) BeautifulSoup4(페이지 크롤링/오픈API 활용/여러 페이지 크롤링)  
   02\) Selenium(인스타/스타벅스 지역 매장/Django 활용)  
   
-### 11. Visualization
+### 17. Visualization
 - 교육내용  
   01\) 시각화 라이브러리 맛보기(Matplotlib/Seaborn/Folium)
 ---
