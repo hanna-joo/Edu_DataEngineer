@@ -120,6 +120,11 @@
 ### 17. Visualization
 - 교육내용  
   01\) 시각화 라이브러리 맛보기(Matplotlib/Seaborn/Folium)
+
+### 21. Machine Learning
+- 기간 : 2022.07.11
+- 교육내용
+  01\) sklearn
 ---
 ## 프로젝트
 ### 01. [데이터 시각화 프로젝트](https://github.com/hanna-joo/multicamp_edu/tree/main/03_FirstProject)
