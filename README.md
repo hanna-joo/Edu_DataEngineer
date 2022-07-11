@@ -121,10 +121,11 @@
 - 교육내용  
   01\) 시각화 라이브러리 맛보기(Matplotlib/Seaborn/Folium)
 
+## [데이터 엔지니어링](https://github.com/hanna-joo/multicamp_edu/tree/main/04_DataEngineering)
 ### 21. Machine Learning
 - 기간 : 2022.07.11
 - 교육내용
-  01\) sklearn
+  01\) sklearn을 활용한 머신러닝과 딥러닝
 ---
 ## 프로젝트
 ### 01. [데이터 시각화 프로젝트](https://github.com/hanna-joo/multicamp_edu/tree/main/03_FirstProject)
