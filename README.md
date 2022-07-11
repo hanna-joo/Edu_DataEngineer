@@ -44,10 +44,10 @@
   - CSS 기초  
 - **미니 프로젝트**  
   - Clone Coding (Amazon Today's Deal 페이지를 html과 css로 구현)  
-      - 클론 코딩할 홈페이지 선정  
-      - 전체적인 레이아웃 구성  
-      - 상단(header) 구현  
-      - 하단(footer) 구현  
+   - 클론 코딩할 홈페이지 선정  
+   - 전체적인 레이아웃 구성  
+   - 상단(header) 구현  
+   - 하단(footer) 구현  
 ### 12. JavaScript
 - 교육내용  
   - HTML에서 JavaScript 작성 방법  
@@ -124,7 +124,7 @@
 ## [문제해결 빅데이터 구현](https://github.com/hanna-joo/multicamp_edu/tree/main/04_DataEngineering)
 ### 21. Machine Learning
 - 기간 : 2022.07.11
-- 교육내용
+- 교육내용  
   01\) sklearn을 활용한 머신러닝과 딥러닝
 ---
 ## 프로젝트
