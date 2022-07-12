@@ -36,14 +36,12 @@
 - 분산형 구조 (대용량 데이터 저장 용이)
   - sharding 지원 (클러스터 데이터 상호 복제)
 
-
 ### 3. Shell
 
 - interactive javascript interface 
   - javascript interpreter 사용
   - js program, library, function 활용 가능
   - mongo에서 사용하는 js function은 console.log 대신 `print`, `printjson` 사용
-
 
 ```
 mongo
