@@ -12,11 +12,6 @@
     - Daemon : 멀티태스킹 운영체제에서 사용자가 직접적으로 제어하지 않고, 백그라운드에서 돌면서 여러 작업을 하는 프로그램
   - Install MongoDB Compass 체크 해제
     - workbench 프로그램인데 설치할 경우 문제가 많기 때문에 체크 해제 필수
-
-![image-20220712143218201](mongodb01.assets/image-20220712143218201.png)
-
-![image-20220712143451252](mongodb01.assets/image-20220712143451252.png)
-
 - 환경변수 설정
   - 윈도우 검색창 > 시스템 환경변수 편집 > 고급 > 환경 변수 > 시스템 변수 > Path 클릭 > 편집 > 새로 만들기 > bin 폴더 경로 변수로 설정
   - 나의 경우 bin 폴더는 C 드라이브에 있고,  Data Directory는 D 드라이브로 설정
@@ -86,9 +81,6 @@ test
 ## Documents
 
 - MongoDB 는 데이터를 BSON documents 로 저장
-
-![image-20220712152129095](mongodb01.assets/image-20220712152129095.png)
-
 ### 1. Document Structure
 
 - MongoDB의 documents는 field 와 value 의 한 쌍으로 구성되어 있음
