@@ -131,7 +131,14 @@
 - 기간 : 2022.07.12 ~ 2022.07.12
 - 교육내용    
   01\) MongoDB CRUD Operations  
-  02\)
+  02\) Aggregartions
+
+### 23. Oracle
+- 기간 : 2022.07.14 ~ 2022.07.15
+- 교육내용
+  01\) SQL  
+  02\) Functions  
+  03\) Subquery & Join  
 ---
 ## 프로젝트
 ### 01. [데이터 시각화 프로젝트](https://github.com/hanna-joo/multicamp_edu/tree/main/03_FirstProject)
