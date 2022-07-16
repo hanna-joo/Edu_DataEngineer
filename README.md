@@ -131,7 +131,8 @@
 - 기간 : 2022.07.12 ~ 2022.07.12
 - 교육내용    
   01\) MongoDB CRUD Operations  
-  02\) Aggregartions
+  02\) Aggregartions  
+  03\) Geo Json
 
 ### 23. Oracle
 - 기간 : 2022.07.14 ~ 2022.07.15
