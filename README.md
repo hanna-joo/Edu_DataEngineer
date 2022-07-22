@@ -145,6 +145,7 @@
 - 교육내용
     - 리눅스 명령어
     - 가상머신 세팅
+### 25. Spark
 ---
 ## 프로젝트
 ### 01. [데이터 시각화 프로젝트](https://github.com/hanna-joo/multicamp_edu/tree/main/03_FirstProject)
