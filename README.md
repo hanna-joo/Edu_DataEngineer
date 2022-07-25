@@ -127,6 +127,7 @@
 - 교육내용  
   01\) sklearn을 활용한 머신러닝
   02\) tensorflow를 활용한 머신러닝
+
 ### 22. MongoDB
 - 기간 : 2022.07.12 ~ 2022.07.12
 - 교육내용    
@@ -145,7 +146,9 @@
 - 교육내용
     - 리눅스 명령어
     - 가상머신 세팅
+
 ### 25. Spark
+
 ---
 ## 프로젝트
 ### 01. [데이터 시각화 프로젝트](https://github.com/hanna-joo/multicamp_edu/tree/main/03_FirstProject)
