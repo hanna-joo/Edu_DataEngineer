@@ -148,6 +148,9 @@
     - 가상머신 세팅
 
 ### 25. Spark
+- 교육내용
+    - Spark Core
+    - Spark SQL 
 
 ---
 ## 프로젝트
