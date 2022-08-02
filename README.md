@@ -169,6 +169,7 @@
     - 데이터 가공 : Spark
     - 데이터 적재 : MySQL, MongoDB
     - 대시보드 : Django
+    - 파이프라인 운영 : Airflow
 
 ---
 ## 이러닝
