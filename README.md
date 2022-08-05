@@ -165,11 +165,12 @@
 - 기간 : 2022.07.27 ~ 2022.08.15
 - 주제 : 대여소 별 자전거 배치 추천 서비스
 - 사용 도구
-    - 데이터 적재 : Kafka, Hadoop
-    - 데이터 가공 : Spark
-    - 데이터 적재 : MySQL, MongoDB
-    - 대시보드 : Django
+    - 원본 데이터 적재 : Kafka, Hadoop
+    - 데이터 가공 및 처리 : Spark
+    - 처리 데이터 적재 : MySQL, MongoDB
+    - 시각화 대시보드 구현 : Django
     - 파이프라인 운영 : Airflow
+- ERD 작성
 
 ---
 ## 이러닝
